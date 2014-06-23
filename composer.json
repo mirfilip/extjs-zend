@@ -1,0 +1,12 @@
+{
+    "name": "mirfilip/zend-composer",
+    "require": {
+        "zendframework/zendframework1": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "mirfilip",
+            "email": "mirfilip@gmail.com"
+        }
+    ]
+}
