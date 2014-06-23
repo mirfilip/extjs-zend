@@ -3,3 +3,10 @@ LICENSE.txt
 README.txt
 demos/
 extras/documentation
+
+
+composer.phar
+vendor/
+
+/bower_components
+/node_modules
